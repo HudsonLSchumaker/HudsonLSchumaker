@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HudsonLSchumaker
+- 👋 Hi, I’m Hudson Schumaker
 
 
 <!---
