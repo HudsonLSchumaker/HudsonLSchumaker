@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hudson Schumaker
 
 **My favorite quote**
-
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
 
 Albert Einstein
